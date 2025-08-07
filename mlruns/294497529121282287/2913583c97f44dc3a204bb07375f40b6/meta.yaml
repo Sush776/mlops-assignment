@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MLOPS/mlassignment2/mlops-assignment/mlruns/294497529121282287/2913583c97f44dc3a204bb07375f40b6/artifacts
+end_time: 1754590328421
+entry_point_name: ''
+experiment_id: '294497529121282287'
+lifecycle_stage: active
+run_id: 2913583c97f44dc3a204bb07375f40b6
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754590322290
+status: 3
+tags: []
+user_id: susmi

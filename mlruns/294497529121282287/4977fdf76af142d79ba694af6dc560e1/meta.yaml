@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/MLOPS/mlassignment2/mlops-assignment/mlruns/294497529121282287/4977fdf76af142d79ba694af6dc560e1/artifacts
+end_time: 1754588514478
+entry_point_name: ''
+experiment_id: '294497529121282287'
+lifecycle_stage: active
+run_id: 4977fdf76af142d79ba694af6dc560e1
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754588511536
+status: 3
+tags: []
+user_id: susmi
